@@ -2,3 +2,29 @@
 *.wav
 
 .idea*
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.bcf
+*.dvi
+*.log
+*.toc
+*.tps
+*.run.xml
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.asc
+
+*.bib.bak
+*.bib.sav
+
+*-eps-converted-to.pdf
+Paper/paper.pdf
+*.out
+
+# TexMaker files
+*.synctex.gz
